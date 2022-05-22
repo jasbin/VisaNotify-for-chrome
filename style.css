@@ -1,0 +1,12 @@
+body{
+    border-color: aqua;
+    width: 290px;
+    height: 335px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    border-left: 3px dotted rgb(0, 145, 255);
+}
+.time{
+    width: 50%;
+}
